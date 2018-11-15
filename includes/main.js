@@ -60,6 +60,7 @@ function addModalCloseHandler(){
 	});
 }
 
+
 function displayImage(){
 	console.log('wakawaka');
 	//find the url of the image by grabbing the background-image source, store it in a variable
